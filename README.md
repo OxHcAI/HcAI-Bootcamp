@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/CoMPuTEprogramme/.github/blob/628c57a3a2734779905731779515c072b6093cee/profile/CoMPuTE%20Logo.jpg" width="500" height="500"/>
+<img src="https://avatars.githubusercontent.com/u/128396053?s=200&v=4" width="500" height="500"/>
 </div>
 
 <p> </p>
