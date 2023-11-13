@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/128396053?s=200&v=4" width="500" height="500"/>
+<img src="https://avatars.githubusercontent.com/u/128396053?s=200&v=4" width="100" height="100"/>
 </div>
 
 <p> </p>
 
 <div align="center">
-  <h1 style="text-align: center;">Welcome to CoMPuTE 👋</h1>
-  <h3 style="text-align: center;">Complex Multiple long-term conditions Phenotypes, Trends, and Endpoints</h3>
+  <h1 style="text-align: center;">Welcome to the Human-centred AI Design Bootcamp</h1>
+  <h3 style="text-align: center;">Mapping • Educing • Disrupting • Gestalting • Implementing</h3>
 </div>
 
 #### Acknowledgment and Disclaimer
@@ -16,6 +16,6 @@
 
 ## Project Details
 
-# Human-centred AI Design Bootcamp
+## Human-centred AI Design Bootcamp
 A 5-day Human-centred AI (HcAI) Design Bootcamp where participants can train to identify, design, and prototype digital health solutions for complex healthcare challenges using AI tools.
 
