@@ -24,6 +24,9 @@
 >Please fill in this form: [https://forms.office.com/e/5GrChP83AT](https://forms.office.com/e/5GrChP83AT)
 
 ## Human-centred AI Design Bootcamp
+
+<img src="https://images.unsplash.com/photo-1557426272-fc759fdf7a8d" width="30%" height="30%"/>
+
 A 5-day Human-centred AI (HcAI) Design Bootcamp where participants can train to identify, design, and prototype digital health solutions for complex healthcare challenges using AI tools.
 
 ## Let's build Medical AI together!
