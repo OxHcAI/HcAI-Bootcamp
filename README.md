@@ -18,14 +18,16 @@
 
 ---
 
-<img width="812" alt="Bootcamp Hero Image" src="https://github.com/OxHcAI/HcAI-Bootcamp/assets/11949941/dc776ba6-b322-4962-8dcc-c802b8e72067">
-
----
-
 ## Register your interest
 
 >You can register your interest for the Bootcamp while the details are being finalised. This will help us better organise this bootcamp. Thank you.
 >Please fill in this form: [https://forms.office.com/e/5GrChP83AT](https://forms.office.com/e/5GrChP83AT)
+
+---
+
+<a href="https://forms.office.com/e/5GrChP83AT"><img width="812" alt="Bootcamp Hero Image" src="https://github.com/OxHcAI/HcAI-Bootcamp/assets/11949941/dc776ba6-b322-4962-8dcc-c802b8e72067"></a>
+
+---
 
 ## Human-centred AI Design Bootcamp
 
