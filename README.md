@@ -54,7 +54,29 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
 
 ### Bootcamp Highlights
 
-| ```Design innovation```<br>Participants will work in groups to identify, design, and prototype digital health solutions for Multiple Long-Term Conditions. | ```Domain experts```<br>There will be access to healthcare professionals, digital health designers, AI experts, patients who can all collaborate. |
-| ```Morning lectures```<br><br>Lectures for beginners and pros on HcAI and digital health AI/ML topics that are relevant to healthcare.                         | ```Prototyping```<br><br>Hands-on HcAI design and prototyping exercises to apply on participant’s own projects or what the group has identified.  |
-| ```Group presentations```<br><br>Group presentations and plenary sessions for feedback, and to discuss potential approach to solutions.                        | ```Keynote lectures```<br><br>Keynote lectures and talks by experts in the field of digital health.                                               |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="color:#905;background-color:#ddd">```Design innovation```</span><br><br>Participants will work in groups to identify, design, and prototype digital health solutions for Multiple Long-Term Conditions.</th>
+    <th class="tg-0pky"><span style="color:#905;background-color:#ddd">```Domain experts```</span><br><br>There will be access to healthcare professionals, digital health designers, AI experts, patients who can all collaborate.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="color:#905;background-color:#ddd">```Morning lectures```</span><br><br>Lectures for beginners and pros on HcAI and digital health AI/ML topics that are relevant to healthcare.</td>
+    <td class="tg-0pky"><span style="color:#905;background-color:#ddd">```Prototyping```</span><br><br>Hands-on HcAI design and prototyping exercises to apply on participant’s own projects or what the group has identified.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:#905;background-color:#ddd">```Group presentations```</span><br><br>Group presentations and plenary sessions for feedback, and to discuss potential approach to solutions.</td>
+    <td class="tg-0pky"><span style="color:#905;background-color:#ddd">```Keynote lectures```</span><br><br>Keynote lectures and talks by experts in the field of digital health.</td>
+  </tr>
+</tbody>
+</table>
