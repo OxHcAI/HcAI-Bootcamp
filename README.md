@@ -70,3 +70,7 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
   </tr>
 </tbody>
 </table>
+
+### We are looking for sponsors
+
+>Please get in touch with us if you are interested in becoming one of the sponsors of this unique event. Please email Sami Adnan at ```sami.adnan[at]phc.ox.ac.uk```. Thank you.
