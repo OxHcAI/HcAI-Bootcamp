@@ -54,7 +54,7 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
 
 ### Bootcamp Highlights
 
-| ```Design innovation```<br><br>Participants will work in groups to identify, design, and prototype digital health solutions for Multiple Long-Term Conditions. | ```Domain experts```<br>There will be access to healthcare professionals, digital health designers, AI experts, patients who can all collaborate. |
+| ```Design innovation```<br>Participants will work in groups to identify, design, and prototype digital health solutions for Multiple Long-Term Conditions. | ```Domain experts```<br>There will be access to healthcare professionals, digital health designers, AI experts, patients who can all collaborate. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | ```Morning lectures```<br><br>Lectures for beginners and pros on HcAI and digital health AI/ML topics that are relevant to healthcare.                         | ```Prototyping```<br><br>Hands-on HcAI design and prototyping exercises to apply on participant’s own projects or what the group has identified.  |
 | ```Group presentations```<br><br>Group presentations and plenary sessions for feedback, and to discuss potential approach to solutions.                        | ```Keynote lectures```<br><br>Keynote lectures and talks by experts in the field of digital health.                                               |
