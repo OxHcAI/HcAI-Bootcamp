@@ -58,15 +58,15 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
 <tbody>
   <tr>
     <td><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Image" width="225" height="150"><br><br>Design innovation<br><br>Participants will work in groups to identify, design, and prototype digital health solutions for Multiple Long-Term Conditions.</td>
-    <td><img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHdvcmtzaG9wfGVufDB8fDB8fHww" alt="Image" width="225" height="150"><br><br><br>Domain experts<br><br>There will be access to healthcare professionals, digital health designers, AI experts, patients who can all collaborate.</td>
+    <td><img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHdvcmtzaG9wfGVufDB8fDB8fHww" alt="Image" width="225" height="150"><br><br>Domain experts<br><br>There will be access to healthcare professionals, digital health designers, AI experts, patients who can all collaborate.</td>
   </tr>
   <tr>
-    <td>```Morning lectures```<br><br>Lectures for beginners and pros on HcAI and digital health AI/ML topics that are relevant to healthcare.</td>
-    <td>```Prototyping```<br><br>Hands-on HcAI design and prototyping exercises to apply on participant’s own projects or what the group has identified.</td>
+    <td><img src="https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGVjdHVyZXxlbnwwfHwwfHx8MA%3D%3D" alt="Image" width="200" height="150"><br><br>Morning lectures<br><br>Lectures for beginners and pros on HcAI and digital health AI/ML topics that are relevant to healthcare.</td>
+    <td><img src="https://images.unsplash.com/photo-1576595580361-90a855b84b20?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHxwcm90b3R5cGV8ZW58MHx8MHx8fDA%3D" alt="Image" width="200" height="150"><br><br>Prototyping<br><br>Hands-on HcAI design and prototyping exercises to apply on participant’s own projects or what the group has identified.</td>
   </tr>
   <tr>
-    <td>```Group presentations```<br><br>Group presentations and plenary sessions for feedback, and to discuss potential approach to solutions.</td>
-    <td>```Keynote lectures```<br><br>Keynote lectures and talks by experts in the field of digital health.</td>
+    <td><img src="https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d29ya3Nob3B8ZW58MHx8MHx8fDA%3D" alt="Image" width="225" height="150"><br><br>Group presentations<br><br>Group presentations and plenary sessions for feedback, and to discuss potential approach to solutions.</td>
+    <td><img src="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVjdHVyZXN8ZW58MHx8MHx8fDA%3D" alt="Image" width="225" height="150"><br><br>Keynote lectures<br><br>Keynote lectures and talks by experts in the field of digital health.</td>
   </tr>
 </tbody>
 </table>
