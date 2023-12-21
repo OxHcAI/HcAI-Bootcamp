@@ -27,7 +27,7 @@
 
 ---
 
-<a href="https://forms.office.com/e/5GrChP83AT"><img width="812" alt="Bootcamp Hero Image" src="https://github.com/OxHcAI/HcAI-Bootcamp/assets/11949941/dc776ba6-b322-4962-8dcc-c802b8e72067"></a>
+<a href="https://forms.office.com/e/5GrChP83AT"><img width="812" alt="Bootcamp Hero Image" src="https://github.com/OxHcAI/HcAI-Bootcamp/assets/11949941/a8457e59-4dbe-454a-80ae-769105bf8def"></a>
 
 ---
 
