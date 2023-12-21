@@ -54,9 +54,9 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
 
 ---
 
-### Keynote speaker
+## Keynote speaker
 
-#### Ben Shneiderman
+### Ben Shneiderman
 
 ```Emeritus Professor``` <br>
 _Institute for Advanced Computer Studies_ <br>
@@ -66,9 +66,9 @@ University of Maryland, MD USA <br>
 
 Ben Shneiderman is a Distinguished University Professor in the Department of Computer Science, Founding Director (1983-2000) of the Human-Computer Interaction Laboratory, and a member of the Institute for Advanced Computer Studies at the University of Maryland, College Park. He pioneered the highlighted textual link in 1983, and it became part of Hyperties, a precursor to the web. His move into information visualisation spawned the commercially successful Spotfire, known for pharmaceutical drug discovery and genomic data analysis. Ben Shneiderman is the author of the breakthrough books, Software Psychology: Human Factors in Computer and Information Systems and Designing the User Interface: Strategies for Effective Human-Computer Interaction. His books are popular for his list of Eight Golden Rules of Interface Design which is frequently taught in Human-Computer Interaction courses.
 
-### Entrepreneur in Residence
+## Entrepreneur in Residence
 
-#### Kurt Waltenbaugh
+### Kurt Waltenbaugh
 
 ```Managing Advisor``` <br>
 _Kestrel Rising_ <br>
