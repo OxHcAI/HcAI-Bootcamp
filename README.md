@@ -58,9 +58,9 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
 
 #### Ben Shneiderman
 
-```Emeritus Professor```
-_Institute for Advanced Computer Studies_
-University of Maryland, MD USA
+```Emeritus Professor``` <br>
+_Institute for Advanced Computer Studies_ <br>
+University of Maryland, MD USA <br>
 
 <img src="https://www.cs.umd.edu/users/ben/ben_pic_proper-color.jpg" width="50%" height="50%"/>
 
