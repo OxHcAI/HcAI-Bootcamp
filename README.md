@@ -74,7 +74,7 @@ Ben Shneiderman is a Distinguished University Professor in the Department of Com
 _Kestrel Rising_ <br>
 Minneapolis, MN USA <br>
 
-<img src="https://ahip.imgix.net/Kurt-Waltenbaugh-headshot_2.jpg?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.4502&fp-y=0.457&h=560&ixlib=php-2.1.1&w=700&s=a2af6450e51cc8ec4d88e60e5afa991f" width="50%" height="50%"/>
+<img src="https://github.com/OxHcAI/HcAI-Bootcamp/assets/11949941/5e436009-97bc-4dce-8d6e-80073c3fdf66" width="50%" height="50%"/>
 
 Kurt Waltenbaugh is a serial entrepreneur with a career spent building solutions using data and to understand, predict, and influence consumer behavior. Kurt has built successful analytic solutions, products, and companies in the healthcare, retail, and education/credentialing industries. His previous companies were sold to Oracle (Texas), Pearson Education (London & New York), and Unite Us (New York). Kurt helps organizations better understand consumer behavior through consulting and strategic advisory services at Kestrel Rising in Minneapolis. He holds a Master of Business Administration from the University of Minnesota Carlson School of Management and a Bachelor of Arts in Political Science/Technology & Policy Studies from Carleton College.
 
