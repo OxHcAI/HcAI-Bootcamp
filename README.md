@@ -58,9 +58,9 @@ This **bootcamp** is intended to engage key stakeholders by introducing them to 
 
 #### Ben Shneiderman
 
-```Emeritus Professor``` < /br>
-_Institute for Advanced Computer Studies_ < /br>
-University of Maryland, MD USA < /br>
+```Emeritus Professor```
+_Institute for Advanced Computer Studies_
+University of Maryland, MD USA
 
 <img src="https://www.cs.umd.edu/users/ben/ben_pic_proper-color.jpg" width="50%" height="50%"/>
 
@@ -70,11 +70,11 @@ Ben Shneiderman is a Distinguished University Professor in the Department of Com
 
 #### Kurt Waltenbaugh
 
-```Managing Advisor``` < /br>
-_Kestrel Rising_ < /br>
-Minneapolis, MN USA < /br>
+```Managing Advisor``` <br>
+_Kestrel Rising_ <br>
+Minneapolis, MN USA <br>
 
-<img src="https://ahip.imgix.net/Kurt-Waltenbaugh-headshot_2.jpg" width="50%" height="50%"/>
+<img src="https://ahip.imgix.net/Kurt-Waltenbaugh-headshot_2.jpg?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.4502&fp-y=0.457&h=560&ixlib=php-2.1.1&w=700&s=a2af6450e51cc8ec4d88e60e5afa991f" width="50%" height="50%"/>
 
 Kurt Waltenbaugh is a serial entrepreneur with a career spent building solutions using data and to understand, predict, and influence consumer behavior. Kurt has built successful analytic solutions, products, and companies in the healthcare, retail, and education/credentialing industries. His previous companies were sold to Oracle (Texas), Pearson Education (London & New York), and Unite Us (New York). Kurt helps organizations better understand consumer behavior through consulting and strategic advisory services at Kestrel Rising in Minneapolis. He holds a Master of Business Administration from the University of Minnesota Carlson School of Management and a Bachelor of Arts in Political Science/Technology & Policy Studies from Carleton College.
 
