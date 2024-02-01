@@ -14,7 +14,7 @@
 #### Acknowledgment and Disclaimer
 ```This project is funded by the NIHR Programme Grants for Applied Research Programme (NIHR204406). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.```
 
-<img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="40%" height="40%"/> <img src="https://www.hcaibootcamp.site/_next/image?url=%2Fimages%2FAIM-RSF_Logo-white.png" width="40%" height="40%"/>
+<img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="40%" height="40%"/>{ }<img src="https://github.com/OxHcAI/HcAI-Bootcamp/assets/11949941/1a951bf9-dd1c-467c-ab23-45babef35a0e" width="40%" height="40%"/>
 
 ---
 
